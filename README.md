@@ -1,5 +1,4 @@
 # weather_app
-## Author : Sushant Sangle
 
 weather app for learning network calls
 Things experienced during the development process of this app.
